@@ -1,4 +1,4 @@
-# ComputerNetworks
+# DNS Resolver
 
 External libraries used:
 

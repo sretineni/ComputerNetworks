@@ -9,6 +9,6 @@ datetime : to record current time and date, and print in the response.
 Command to run the program:
 
 To run DNS resolver(Part A):
-python mydig.py <domain> <mode>
+python mydig.py domain mode
 
 
